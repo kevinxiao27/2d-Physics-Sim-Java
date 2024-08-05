@@ -1,0 +1,17 @@
+{
+  "colliders": [
+    {
+      "posX": 1.03,
+      "posY": -1.32,
+      "deltaX": 1.30,
+      "deltaY": 2.3
+    },
+    {
+      "posX": 1.0,
+      "posY": -1.0,
+      "deltaX": 1.34,
+      "deltaY": 2.35
+    }
+  ],
+  "isPlaying": false
+}
